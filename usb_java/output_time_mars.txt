@@ -1,0 +1,17 @@
+0  //Mode  
+2 //Number of bodies 
+999  //Time period in number of weeks 
+999  //Time period in number of days 
+
+1.98855E30
+126600.91
+5956449.0
+-0.0050148247
+0.013785972
+
+6.4174E23
+-1.85656541E11
+-1.58644994E11
+15539.328
+-16218.303
+
